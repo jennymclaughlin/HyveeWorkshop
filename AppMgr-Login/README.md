@@ -22,7 +22,7 @@ Password>
 Authenticating...
 OK
 
-Targeted org Vantage
+Targeted org Hyvee
 
 Targeted space <STUDENT-X>
 
@@ -49,4 +49,4 @@ Space:          <STUDENT-X>
 ___
 
 ___
-| **[Home](../../README.md)** |__________________________________________________________________________________| **[Next Lab](../Lab-01/README.md)** |
+| **[Home](../README.md)** |__________________________________________________________________________________| **[Next Lab](../Lab-01/README.md)** |
