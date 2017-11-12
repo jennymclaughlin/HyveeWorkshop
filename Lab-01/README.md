@@ -79,7 +79,6 @@ Space:          <STUDENT-X>
 
 ## View The Java App
 1. Verify your app in the apps manager
-2. Question: What buildpack does it use?
 
 ## Push The Node.js App
 1. Open command prompt and navigate to the app directory.
@@ -103,9 +102,9 @@ Space:          <STUDENT-X>
 
 4. The cf cli will provide feedback about each step it takes to create the App Container and deploy.
 
-## View The Java App
+## View The Node App
 1. Verify your app in the apps manager
-2. Question: What buildpack does it use?
+
 
 ___
 
